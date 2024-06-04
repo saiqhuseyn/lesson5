@@ -1,0 +1,10 @@
+
+.anadiv{
+    background-color: rgb(155, 159, 243);
+    color: aliceblue;
+    display: flex;
+   justify-content: space-around; 
+}
+.new{
+    color:greenyellow;
+}
